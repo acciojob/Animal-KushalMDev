@@ -1,1 +1,11 @@
-/*  your css code here. If applicable */
+#animal-photos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: gray;
+    /* width: 80vw; */
+}
+h1{
+    color: white;
+}
